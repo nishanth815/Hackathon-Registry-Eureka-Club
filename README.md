@@ -4,7 +4,7 @@ A simple website built for the Eureka Club's 2025 Batch hackathon task. It shows
 
 ## Live demo
 
-> _Add your deployed link here once published, e.g. via GitHub Pages._
+https://nishanth815.github.io/Hackathon-Registry-Eureka-Club/
 
 ## Features
 
