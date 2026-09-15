@@ -62,7 +62,7 @@ This is a static site, so it can be deployed for free with **GitHub Pages**:
 1. Push this repository to GitHub.
 2. Go to **Settings → Pages**.
 3. Under **Source**, select the `main` branch and `/ (root)` folder.
-4. Save — your site will be live at `https://<your-username>.github.io/<repo-name>/`.
+4. Save — your site will be live at https://nishanth815.github.io/Hackathon-Registry-Eureka-Club/
 
 ## Data
 
